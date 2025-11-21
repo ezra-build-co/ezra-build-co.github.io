@@ -1,11 +1,11 @@
-<h1>🚧UNDER CONSTRUCTION🚧&nbsp;</h1>
-<h2><strong><em>Come Back Later</em></strong></h2>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>We're doing a sequel</p>
-<p>We're back by popular demand</p>
-<p>C'mon on everybody, strike up the band</p>
-<p>We're doing a sequel</p>
-<p>That's what we do in Hollywood</p>
-<p>And everybody knows</p>
-<p>That the sequel's never quite as good</p>
+<h1 style="text-align: center;">🚧UNDER CONSTRUCTION🚧&nbsp;</h1>
+<h2 style="text-align: center;"><strong><em>Come Back Later</em></strong></h2>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;">We're doing a sequel</p>
+<p style="text-align: center;">We're back by popular demand</p>
+<p style="text-align: center;">C'mon on everybody, strike up the band</p>
+<p style="text-align: center;">We're doing a sequel</p>
+<p style="text-align: center;">That's what we do in Hollywood</p>
+<p style="text-align: center;">And everybody knows</p>
+<p style="text-align: center;">That the sequel's never quite as good</p>
